@@ -9,6 +9,8 @@ Check out our [homepage][website] and [documentation][docsWebsite]
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AssistantNMS?color=%231d9bf0&style=for-the-badge)][assistantnmsTwitter]
 [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
 
+[![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/purple.svg)](https://github.com/NMSCD)
+
 [website]: https://nmsassistant.com?ref=AssistantNMSGithub
 [webApp]: https://app.nmsassistant.com?ref=AssistantNMSGithub
 [docsWebsite]: https://docs.assistantapps.com/#/apps/nms-main?ref=AssistantNMSGithub
