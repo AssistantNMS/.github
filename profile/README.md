@@ -4,7 +4,7 @@
 
 _Get Crafting, Refining, Cooking Recipes and much more for the game No Man's Sky!! Latest features include the ability to view the status of Community missions, Weekend Missions and Expeditions!_
 
-Check out our [homepage][website] and [documentation][docsWebsite]
+Check out our [homepage][website], [documentation][docsWebsite], [status][nmsStatus]
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AssistantNMS?color=%231d9bf0&style=for-the-badge)][assistantnmsTwitter]
 [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
@@ -16,6 +16,7 @@ Check out our [homepage][website] and [documentation][docsWebsite]
 [docsWebsite]: https://docs.assistantapps.com/#/apps/nms-main?ref=AssistantNMSGithub
 [googlePlay]: https://play.google.com/store/apps/details?id=com.kurtlourens.no_mans_sky_recipes&ref=AssistantNMSGithub
 [appleAppStore]: https://apps.apple.com/us/app/assistant-for-no-mans-sky/id1480287625?ref=AssistantNMSGithub
+[nmsStatus]: https://status.nmsassistant.com
 
 [assistantnmsTwitter]: https://twitter.com/AssistantNMS?ref=AssistantNMSGithub
 [discord]: https://assistantapps.com/discord?ref=AssistantAppsDocs
