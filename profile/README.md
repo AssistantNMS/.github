@@ -4,7 +4,7 @@
 
 _Get Crafting, Refining, Cooking Recipes and much more for the game No Man's Sky!! Latest features include the ability to view the status of Community missions, Weekend Missions and Expeditions!_
 
-Check out our [homepage][website], [documentation][docsWebsite], [status page][nmsStatus]
+Check out our [homepage][website], [documentation][docsWebsite] and [status page][nmsStatus]
 
 [![Follow on Twitter](https://img.shields.io/twitter/follow/AssistantNMS?color=%231d9bf0&style=for-the-badge)][assistantnmsTwitter]
 [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
