@@ -1,6 +1,6 @@
 ### Welcome to the AssistantNMS Github organisation
 
-**Assistant for No Man's Sky** is an [Android][googlePlay], [iOS][appleAppStore], [WebApp][webApp] and [Windows][windowsAppStore] for players of **No Man's Sky** to help them enjoy the game more 🎮. Part of the [AssistantApps app range][assistantAppsOrg]!
+**Assistant for No Man's Sky** is an [Android][googlePlay], [iOS][appleAppStore], [WebApp][webApp] and [Windows][windowsAppStore] app for players of **No Man's Sky** to help them enjoy the game more 🎮. Part of the [AssistantApps app range][assistantAppsOrg]!
 
 _Get Crafting, Refining, Cooking Recipes and much more for the game No Man's Sky!! Latest features include the ability to view the status of Community missions, Weekend Missions and Expeditions!_
 
