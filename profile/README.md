@@ -21,4 +21,4 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [assistantAppsOrg]: https://github.com/AssistantApps
 
 [assistantnmsTwitter]: https://twitter.com/AssistantNMS?ref=AssistantNMSGithub
-[discord]: https://assistantapps.com/discord?ref=AssistantAppsDocs
+[discord]: https://assistantapps.com/discord?ref=AssistantNMSGithub
