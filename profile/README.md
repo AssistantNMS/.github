@@ -13,14 +13,11 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 
 <br />
 
-<div align="center">
-
-  [![PlayStore](https://github.com/AssistantNMS/.github/blob/main/img/PlayStore.png?raw=true)][googlePlayStore]
-  [![AppStore](https://github.com/AssistantNMS/.github/blob/main/img/AppStore.png?raw=true)][appleAppStore]
-  [![PWA](https://github.com/AssistantNMS/.github/blob/main/img/pwa.png?raw=true)][assistantnmsWebapp]
-  [![WindowsStore](https://github.com/AssistantNMS/.github/blob/main/img/WindowsStore.png?raw=true)][windowsStore]
+[![PlayStore](https://github.com/AssistantNMS/.github/blob/main/img/PlayStore.png?raw=true)][googlePlayStore]
+[![AppStore](https://github.com/AssistantNMS/.github/blob/main/img/AppStore.png?raw=true)][appleAppStore]
+[![PWA](https://github.com/AssistantNMS/.github/blob/main/img/pwa.png?raw=true)][assistantnmsWebapp]
+[![WindowsStore](https://github.com/AssistantNMS/.github/blob/main/img/WindowsStore.png?raw=true)][windowsStore]
   
-</div>
 
 [website]: https://nmsassistant.com?ref=AssistantNMSGithub
 [assistantnmsWebapp]: https://app.nmsassistant.com?ref=AssistantNMSGithub
