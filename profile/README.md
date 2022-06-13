@@ -15,10 +15,10 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 
 <div align="center">
 
-  [![PlayStore](https://github.com/AssistantNMS/App/raw/main/.github/img/PlayStore.png)][googlePlayStore]
-  [![AppStore](https://github.com/AssistantNMS/App/raw/main/.github/img/AppStore.png)][appleAppStore]
-  [![PWA](https://github.com/AssistantNMS/App/raw/main/.github/img/pwa.png)][assistantnmsWebapp]
-  [![WindowsStore](https://github.com/AssistantNMS/App/raw/main/.github/img/WindowsStore.png)][windowsStore]
+  [![PlayStore](../img/PlayStore.png)][googlePlayStore]
+  [![AppStore](../img/AppStore.png)][appleAppStore]
+  [![PWA](../img/pwa.png)][assistantnmsWebapp]
+  [![WindowsStore](../img/WindowsStore.png)][windowsStore]
   
 </div>
 
