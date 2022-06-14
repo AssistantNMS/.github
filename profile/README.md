@@ -18,6 +18,9 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [![PWA](https://github.com/AssistantNMS/.github/blob/main/img/webVersion2.png?raw=true)][assistantnmsWebapp]
 [![WindowsStore](https://github.com/AssistantNMS/.github/blob/main/img/WindowsStore.png?raw=true)][windowsStore]
   
+<br />
+
+![Profile views](https://komarev.com/ghpvc/?username=AssistantNMS&color=green&style=for-the-badge)
 
 [website]: https://nmsassistant.com?ref=AssistantNMSGithub
 [assistantnmsWebapp]: https://app.nmsassistant.com?ref=AssistantNMSGithub
