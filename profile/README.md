@@ -10,6 +10,7 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
 
 [![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/purple-ftb.svg)](https://github.com/NMSCD)
+![Profile views](https://komarev.com/ghpvc/?username=AssistantNMS&color=green&style=for-the-badge)
 
 <br />
 
@@ -17,10 +18,7 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [![AppStore](https://github.com/AssistantNMS/.github/blob/main/img/AppStore.png?raw=true)][appleAppStore]
 [![PWA](https://github.com/AssistantNMS/.github/blob/main/img/webVersion2.png?raw=true)][assistantnmsWebapp]
 [![WindowsStore](https://github.com/AssistantNMS/.github/blob/main/img/WindowsStore.png?raw=true)][windowsStore]
-  
-<br />
 
-![Profile views](https://komarev.com/ghpvc/?username=AssistantNMS&color=green&style=for-the-badge)
 
 [website]: https://nmsassistant.com?ref=AssistantNMSGithub
 [assistantnmsWebapp]: https://app.nmsassistant.com?ref=AssistantNMSGithub
