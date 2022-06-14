@@ -15,7 +15,7 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 
 [![PlayStore](https://github.com/AssistantNMS/.github/blob/main/img/PlayStore.png?raw=true)][googlePlayStore]
 [![AppStore](https://github.com/AssistantNMS/.github/blob/main/img/AppStore.png?raw=true)][appleAppStore]
-[![PWA](https://github.com/AssistantNMS/.github/blob/main/img/webVersion.png?raw=true)][assistantnmsWebapp]
+[![PWA](https://github.com/AssistantNMS/.github/blob/main/img/webVersion2.png?raw=true)][assistantnmsWebapp]
 [![WindowsStore](https://github.com/AssistantNMS/.github/blob/main/img/WindowsStore.png?raw=true)][windowsStore]
   
 
