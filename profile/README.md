@@ -43,4 +43,4 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 
 [assistantnmsTwitter]: https://twitter.com/AssistantNMS?ref=AssistantNMSGithub
 [discord]: https://assistantapps.com/discord?ref=AssistantNMSGithub
-[holopinDashboard]: www.holopin.io/@assistantnms?ref=AssistantNMSGithub
+[holopinDashboard]: https://www.holopin.io/@assistantnms?ref=AssistantNMSGithub
