@@ -12,6 +12,8 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/purple-ftb.svg)](https://github.com/NMSCD)
 ![Profile views](https://komarev.com/ghpvc/?username=AssistantNMS&color=green&style=for-the-badge)
 
+[![AssistantNMS Holopin Dashboard](https://img.shields.io/badge/Holopin-AssistantNMS-brightgreen?style=for-the-badge)][holopinDashboard]
+
 <br />
 
 [![PlayStore](https://github.com/AssistantNMS/.github/blob/main/img/PlayStore.png?raw=true)][googlePlayStore]
@@ -41,3 +43,4 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 
 [assistantnmsTwitter]: https://twitter.com/AssistantNMS?ref=AssistantNMSGithub
 [discord]: https://assistantapps.com/discord?ref=AssistantNMSGithub
+[holopinDashboard]: www.holopin.io/@assistantnms?ref=AssistantNMSGithub
