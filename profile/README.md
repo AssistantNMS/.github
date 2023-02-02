@@ -27,6 +27,10 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [![Nuget](https://img.shields.io/nuget/v/AssistantApps.NoMansSky.Info?style=for-the-badge)][nugetPackage]
 [![npm](https://img.shields.io/npm/v/assistantapps-nomanssky-info?style=for-the-badge)][npmPackage]
 
+<br />
+
+<!--- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=13d096719f67&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) --->
+
 [website]: https://nmsassistant.com?ref=AssistantNMSGithub
 [assistantnmsWebapp]: https://app.nmsassistant.com?ref=AssistantNMSGithub
 [docsWebsite]: https://docs.assistantapps.com/#/apps/nms-main?ref=AssistantNMSGithub
