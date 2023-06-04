@@ -6,7 +6,7 @@ _Get Crafting, Refining, Cooking Recipes and much more for the game No Man's Sky
 
 Check out our [homepage][website], [documentation][docsWebsite] and [status page][nmsStatus]
 
-[![Follow on Twitter](https://img.shields.io/twitter/follow/AssistantNMS?color=%231d9bf0&style=for-the-badge)][assistantnmsTwitter]
+[![Follow on Twitter](https://img.shields.io/badge/follow-%40AssistantNMS-1d9bf0?logo=twitter&style=for-the-badge)][assistantnmsTwitter]
 [![Discord](https://img.shields.io/discord/625007826913198080?style=for-the-badge)][discord]
 
 [![Supported by the No Man's Sky Community Developers & Designers](https://raw.githubusercontent.com/NMSCD/About/master/badge/purple-ftb.svg)](https://github.com/NMSCD)
