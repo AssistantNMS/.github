@@ -29,6 +29,12 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 
 <br />
 
+---
+
+[<img alt="hacktoberfest logo" src="../img/hacktoberfest2023.svg" />][hactoberfestWebsite]
+
+Get rewarded for making Pull Requests into many of out repositories! Check out the [Hacktoberfest website][hactoberfestWebsite] for more details! 🥳
+
 <!--- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=13d096719f67&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) --->
 
 [website]: https://nmsassistant.com?ref=AssistantNMSGithub
@@ -50,3 +56,4 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [discord]: https://assistantapps.com/discord?ref=AssistantNMSGithub
 [mastodon]: https://nomanssky.social/@assistantnms?ref=AssistantNMSGithub
 [holopinDashboard]: https://www.holopin.io/@assistantnms?ref=AssistantNMSGithub
+[hactoberfestWebsite]: https://hacktoberfest.com?ref=AssistantNMSGithub
