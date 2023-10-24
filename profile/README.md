@@ -27,11 +27,9 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [![Nuget](https://img.shields.io/nuget/v/AssistantApps.NoMansSky.Info?style=for-the-badge)][nugetPackage]
 [![npm](https://img.shields.io/npm/v/assistantapps-nomanssky-info?style=for-the-badge)][npmPackage]
 
-<br />
-
 ---
 
-[<img alt="hacktoberfest logo" src="../img/hacktoberfest2023.svg" />][hactoberfestWebsite]
+[<img alt="hacktoberfest logo" src="https://github.com/AssistantNMS/.github/raw/main/img/hacktoberfest2023.svg" />][hactoberfestWebsite]
 
 Get rewarded for making Pull Requests into many of out repositories! Check out the [Hacktoberfest website][hactoberfestWebsite] for more details! 🥳
 
