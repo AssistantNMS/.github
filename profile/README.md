@@ -27,11 +27,11 @@ Check out our [homepage][website], [documentation][docsWebsite] and [status page
 [![Nuget](https://img.shields.io/nuget/v/AssistantApps.NoMansSky.Info?style=for-the-badge)][nugetPackage]
 [![npm](https://img.shields.io/npm/v/assistantapps-nomanssky-info?style=for-the-badge)][npmPackage]
 
----
+<!--- --- --->
 
-[<img alt="hacktoberfest logo" src="https://github.com/AssistantNMS/.github/raw/main/img/hacktoberfest2023.svg" />][hactoberfestWebsite]
+<!--- [<img alt="hacktoberfest logo" src="https://github.com/AssistantNMS/.github/raw/main/img/hacktoberfest2023.svg" />][hactoberfestWebsite] --->
 
-Get rewarded for making Pull Requests into many of out repositories! Check out the [Hacktoberfest website][hactoberfestWebsite] for more details! 🥳
+<!--- Get rewarded for making Pull Requests into many of out repositories! Check out the [Hacktoberfest website][hactoberfestWebsite] for more details! 🥳 --->
 
 <!--- [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=13d096719f67&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) --->
 
